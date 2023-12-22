@@ -20,7 +20,6 @@ const slides = [
 
 // 1) Les écouteurs d'événements sur les flèches //
 
-
 const arrowLeft = document.querySelector('.arrow_left');
 const arrowRight = document.querySelector('.arrow_right');
 
