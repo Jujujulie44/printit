@@ -140,7 +140,6 @@ header {
 	right: 10px;
 }
 
-
 /* Gestion des points du carrousel */
 .dots {
 	position: absolute;
@@ -166,6 +165,7 @@ header {
 	background-color: #fff;
 }
 /* Fin du code CSS pour le carousel */
+
 #banner p {
 	font-family: 'Roboto Slab', sans-serif;
 	font-weight: 900;
